@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/steppers/VerticalLinearStepper.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "axios": "0.18.0",
+    "material-ui": "0.20.2",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-highlight-words": "0.16.0",
+    "react-redux": "6.0.0",
+    "react-redux-loading-bar": "4.1.0",
+    "react-sticky": "6.0.3",
+    "redux": "4.0.1",
+    "redux-form": "latest",
+    "redux-form-website-template": "1.0.6",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.3.0"
+  },
+  "keywords": [],
+  "name": "vertical-stepper"
+}
