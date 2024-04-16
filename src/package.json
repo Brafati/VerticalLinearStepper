@@ -12,7 +12,7 @@
     "react-redux": "6.0.0",
     "react-redux-loading-bar": "4.1.0",
     "react-sticky": "6.0.3",
-    "redux": "4.0.1",
+    "redux": "4.2.1",
     "redux-form": "latest",
     "redux-form-website-template": "1.0.6",
     "redux-logger": "3.0.6",
