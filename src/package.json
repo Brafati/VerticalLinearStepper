@@ -3,7 +3,7 @@
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/steppers/VerticalLinearStepper.js",
   "dependencies": {
     "@material-ui/core": "latest",
-    "axios": "0.18.0",
+    "axios": "1.8.2",
     "material-ui": "0.20.2",
     "prop-types": "latest",
     "react": "latest",
